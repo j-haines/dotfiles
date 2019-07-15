@@ -55,21 +55,11 @@ local function run_once(cmd_arr)
     end
 end
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> updates+install script
 run_once({
     "unclutter -root",
     "nm-applet",
     "~jhaines/.screenlayout/default.sh",
 }) -- entries must be comma-separated
-<<<<<<< HEAD
-=======
-run_once({ "unclutter -root" }) -- entries must be comma-separated
->>>>>>> initial
-=======
->>>>>>> updates+install script
 -- }}}
 
 -- {{{ Variable definitions

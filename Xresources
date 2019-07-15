@@ -9,15 +9,7 @@ URxvt.secondaryWheel: 1
 URxvt.iso14755: false
 URxvt.iso14755_52: false
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 URxvt.perl-ext-common: default,matcher,tabbed
-=======
-URxvt.perl-ext-common: default,matcher,tabbedex,selection-to-clipboard,resize-font,keysym
->>>>>>> more files
-=======
-URxvt.perl-ext-common: default,matcher,tabbed
->>>>>>> updates+install script
 
 URxvt.url-launcher: /usr/bin/xdg-open
 URxvt.matcher.button: 1
@@ -26,30 +18,13 @@ URxvt.matcher.rend.0: Uline Bold fg2
 URxvt.termName: rxvt-unicode
 URxvt.scrollBar: false
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> updates+install script
 URxvt.tabbed.new-button: false
 URxvt.tabbed.tab-numbers: true
 URxvt.tabbed.tabbar-timeouts: 16:.:8:::4:+
 URxvt.tabbed.tabcmds.1: T|shell
-<<<<<<< HEAD
-=======
 URxvt.tabbed.autohide: true
 URxvt.tabbed.reopen-on-close: false
 URxvt.tabbed.no-tabbedex-keys: true
->>>>>>> more files
-=======
->>>>>>> updates+install script
 
-URxvt.keysym.Control-Tab: perl:tabbedex:next_tab
-URxvt.keysym.Shift-Control-Tab: perl:tabbedex:prev_tab
-URxvt.keysym.Shift-Control-T: perl:tabbedex:new_tab
-URxvt.keysym.Shift-Control-Left: perl:tabbedex:move_tab_left
-URxvt.keysym.Shift-Control-Right: perl:tabbedex:move_tab_right
-URxvt.keysym.Shift-Control-R: perl:tabbedex:rename_tab
-URxvt.keysym.Shift-Control-V: eval:paste_clipboard
-URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
-URxvt.keymsym.Control-Down: resize-font:smaller
-URxvt.keymsym.Control-Up: resize-font:bigger
+URxvt.keysym.Control-Down: resize-font:smaller
+URxvt.keysym.Control-Up: resize-font:bigger

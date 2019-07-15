@@ -35,7 +35,7 @@ mkdir -p ~/.config/fontconfig/conf.d
 for font in "${PWD}"/fonts/fontconfig/*
 do
     fontfile=$(basename -- "${font}")
-    cp --verbose --remove-destination "${font}" "~/.config/awesome/fontconfig/conf.d/${fontfile}"
+    cp --verbose --remove-destination "${font}" "~/.config/fontconfig/conf.d/${fontfile}"
 done
 
 # install urxvt extensions
