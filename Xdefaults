@@ -1,0 +1,27 @@
+URxvt.color0: rgb:1a/1a/1a
+URxvt.color1: rgb:af/53/60
+URxvt.color2: rgb:44/70/19
+URxvt.color3: rgb:d8/d7/82
+URxvt.color4: rgb:64/8b/b5
+URxvt.color5: rgb:e5/c8/d6
+URxvt.color6: rgb:40/6e/6f
+URxvt.color7: rgb:c6/c6/e5
+URxvt.color8: rgb:6e/6e/6e
+URxvt.color9: rgb:ea/6f/81
+URxvt.color10: rgb:7b/ab/4e
+URxvt.color11: rgb:cf/cd/63
+URxvt.color12: rgb:92/ad/cb
+URxvt.color13: rgb:cb/92/ad
+URxvt.color14: rgb:81/dc/de
+URxvt.color15: rgb:dd/dd/ff
+URxvt.colorBD: rgb:e2/cc/b0
+
+URxvt.background: rgb:1a/1a/1a
+URxvt.foreground: rgb:dd/dd/ff
+
+URxvt.font: xft:DejaVu Sans Mono for Powerline:pixelsize=16:antialias=true:hinting=true
+URxvt.boltFont: xft:DejaVu Sans Mono for Powerline:bold:pixelsize=16:antialias=true:hinting=true
+URxvt.italicFont: xft:DejaVu Sans Mono for Powerline:italic:pixelsize=16:antialias=true:hinting=true
+URxvt.boldItalicFont: xft:DejaVu Sans Mono for Powerline:bold:italic:pixelsize=16:antialias=true
+URxvt.letterSpace: -1
+URxvt.saveLines: 2048
